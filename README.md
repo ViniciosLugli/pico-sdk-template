@@ -1,4 +1,4 @@
-# pick-sdk-template
+# pico-sdk-template
 
 This template is designed to help you get started quickly with your Raspberry Pi Pico projects using the official Raspberry Pi Pico SDK. The template project has a simple example program that prints over USB serial communication a overclocked frequency of the Pico. Follow the instructions below to set up, build your project, and use picotool for various operations.
 
